@@ -1,0 +1,17 @@
+Qu'est ce que j'ai pas fait;
+les coulés
+les logs
+---------------------------------------
+Ce que j'ai fait;
+le menu
+le jeu principal
+5 fichiers pour différents tableaux
+faire que les tableau soient randomizer (le logiciel choisi un tableau aléatoirement)
+faire que le logiciel demande le pseudo
+faire une grille de jeu
+faire une sorte de "score" qui dis le nombre de "case de bateaux" restant
+faire les touché
+les loupé 
+faire que quand il reste 0 "cases contenant une partie de bateau" le jeu s'arrete et dis "vous avez gagné"
+le score
+ 
